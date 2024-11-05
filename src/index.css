@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  height: 100vh;
+  background: #ECEAEA;
+  color: rgb(34, 33, 33);
+  font-family: 'outfit';
+}
+html{
+  scroll-behavior: smooth;
+}
